@@ -1,4 +1,4 @@
-# Frontend Mentor - Arch Studio multi-page website
+# Frontend Mentor - Product feedback app
 
 This is a solution to the [Product feedback app challange on Frontend Mentor](https://www.frontendmentor.io/challenges/product-feedback-app-wbvUYqjR6).
 
